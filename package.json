@@ -1,0 +1,14 @@
+{
+  "name": "gulp-parcel-issue-2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:zacky1972/gulp-parcel-issue-2.git",
+  "author": "Susumu Yamazaki <zacky1972@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-coffee": "^3.0.2",
+    "gulp-parcel": "^0.2.3",
+    "gulp-slim": "^0.3.0"
+  }
+}
